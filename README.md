@@ -1,2 +1,10 @@
 # Dodge-Unofficial-Website
 This is a fan made copy of Dodge's Website.
+
+This Website is a part of our ICT Project (Batch 2025).
+We have created this website in which you get information about Dodge's Vehicles, the history of Dodge, and the Contact Information along with a contact form, and a Cars section where you can add cars to cart and then later checkout it.
+
+Website Created by:
+1- Muhammad Dawood (25F-3002)
+2- Dawood Khalid (25F-3060)
+3- Faisal Ali (25F-3078)
