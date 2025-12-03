@@ -82,7 +82,7 @@ function checkout(){
     alert("Checkout Time \nYour total bill: $ " + cartprice);
     alert("Congratulations");
     let cart = document.getElementById("cart");
-    cart.innerHTML = " ";
+    cart.innerHTML = "<h3>Cart:</h3>";
     cartprice = 0;
     
 };
