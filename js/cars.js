@@ -79,10 +79,11 @@ function cart6(){
 };
 
 function checkout(){
+    let id = 1;
     alert("Checkout Time \nYour total bill: $ " + cartprice);
-    alert("Congratulations");
+    alert("Your id is " + id + "\n Show this id at the show room.");
     let cart = document.getElementById("cart");
     cart.innerHTML = "<h3>Cart:</h3>";
     cartprice = 0;
-    
+    id++;
 };
