@@ -44,6 +44,12 @@ function check(){
         err++;
     };
 
+    if(email != confrimemail)
+    {
+        alert("Emails are not same");
+        err++;
+    };
+
     if(err == 0)
     {
         alert("Form Submitted successfull.");
